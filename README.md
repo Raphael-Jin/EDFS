@@ -1,30 +1,30 @@
 # Emulation-based System for Distributed File storage and Parallel Computation
 
 ### Architecture:
-<div style="text-align: center">
+<div align=center>
 <img src="./tutorial/architecture.png" width=40% align=center />
 </div>
 
 ### Home page:
-<div style="text-align: center">
+<div align=center>
 <img src="./tutorial/mainpage.png" width=70% align=center />
 </div>
 ### Distributed file system dashboard
-<div style="text-align: center">
+<div align=center>
 <img src="./tutorial/filesystem.png" width=70% align=center />
 </div>
 ### Trending Movie Computation using MapReduce
-<div style="text-align: center">
+<div align=center>
 <img src="./tutorial/trending.png" width=70% align=center />
 <img src="./tutorial/trending_mapreduce.png" width=70% align=center />
 </div>
 ### Data Retrieval using MapReduce
-<div style="text-align: center">
+<div align=center>
 <img src="./tutorial/search.png" width=70% align=center />
 <img src="./tutorial/search_mapreduce.png" width=70% align=center />
 </div>
 ### Item-based collaborative filtering recommendation using MapReduce
-<div style="text-align: center">
+<div align=center>
 <img src="./tutorial/recommend.png" width=70% align=center />
 <img src="./tutorial/recommend_mapreduce.jpg" width=70% align=center />
 </div>
