@@ -31,10 +31,9 @@ password: abc123
 **# File description:**
 
 ```markdown
-  pages: Front End
-  kaggle_data_sources: Our data source
-  command: Implementation code
-  user_like.josn: local user-like matrix
-  co_occurrence.json: local co-occurrence matrix
-  firebase.py: initialization of firebase
+  pages: Front-end directory
+  kaggle_data_sources: Original data source
+  command: Back-end implementation code
+  pre_stored_matrix: Item_CF training result
+  firebase.py: Initialization of firebase
 ```
