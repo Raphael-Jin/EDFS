@@ -1,3 +1,25 @@
+# Emulation-based System for Distributed File storage and Parallel Computation
+
+### Home page:
+
+![](tutorial\mainpage.png)
+
+### Distributed file system dashboard
+
+![](tutorial\filesystem.png)
+
+### Trending Movie Computation using MapReduce
+
+![](tutorial\trending.png)
+
+### Data Retrieval using MapReduce
+
+![](tutorial\search.png)
+
+### Item-based collaborative filtering recommendation using MapReduce
+
+![](tutorial\recommend.png)
+
 **# Prerequisite:**
 
 ```bash
@@ -18,6 +40,8 @@ streamlit run Main.py
 
 **# Username & Password for demo:**
 
+![](tutorial\login.png)
+
 ```markdown
 username: admin 
 
@@ -25,7 +49,7 @@ password: abc123
 
 username: demo_user
 
-password: abc123
+password: 123123
 ```
 
 **# File description:**
