@@ -10,7 +10,7 @@ pip install streamlit
 pip install pandas
 ```
 
-**# How To start in command line:**
+**# How to start in command line:**
 
 ```python
 streamlit run Main.py 
@@ -30,9 +30,11 @@ password: abc123
 
 **# File description:**
 
-- pages: Front End
-- kaggle_data_sources: Our data source
-- command: Implementation code
-- user_like.josn: local user-like matrix
-- co_occurrence.json: local co-occurrence matrix
-- firebase.py: initialization of firebase
+```markdown
+  pages: Front End
+  kaggle_data_sources: Our data source
+  command: Implementation code
+  user_like.josn: local user-like matrix
+  co_occurrence.json: local co-occurrence matrix
+  firebase.py: initialization of firebase
+```
