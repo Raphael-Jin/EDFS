@@ -17,13 +17,12 @@ streamlit run Main.py
 ```
 
 **# Username & Password for demo:**
+
 username: admin 
 
 password: abc123
 
-
-
-username: jingqi
+username: demo_user
 
 password: abc123
 
