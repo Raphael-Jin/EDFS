@@ -1,24 +1,30 @@
 # Emulation-based System for Distributed File storage and Parallel Computation
 
+### Architecture:
+<img src="./tutorial/architecture.png" width=40% align=center/>
+
 ### Home page:
 
-![](/tutorial/mainpage.png)
+<img src="./tutorial/mainpage.png" width=70% align=center/>
 
 ### Distributed file system dashboard
 
-![](/tutorial/filesystem.png)
+<img src="./tutorial/filesystem.png" width=70% align=center/>
 
 ### Trending Movie Computation using MapReduce
 
-![](/tutorial/trending.png)
+<img src="./tutorial/trending.png" width=70% align=center/>
+<img src="./tutorial/trending_mapreduce.png" width=70% align=center/>
 
 ### Data Retrieval using MapReduce
 
-![](/tutorial/search.png)
+<img src="./tutorial/search.png" width=70% align=center/>
+<img src="./tutorial/search_mapreduce.png" width=70% align=center/>
 
 ### Item-based collaborative filtering recommendation using MapReduce
 
-![](/tutorial/recommend.png)
+<img src="./tutorial/recommend.png" width=70% align=center/>
+<img src="./tutorial/recommend_mapreduce.jpg" width=70% align=center/>
 
 **# Prerequisite:**
 
@@ -39,7 +45,6 @@ streamlit run Main.py
 ```
 
 **# Username & Password for demo:**
-
 ![](tutorial\login.png)
 
 ```markdown
