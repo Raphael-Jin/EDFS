@@ -2,23 +2,23 @@
 
 ### Home page:
 
-![](tutorial\mainpage.png)
+![](/tutorial/mainpage.png)
 
 ### Distributed file system dashboard
 
-![](tutorial\filesystem.png)
+![](/tutorial/filesystem.png)
 
 ### Trending Movie Computation using MapReduce
 
-![](tutorial\trending.png)
+![](/tutorial/trending.png)
 
 ### Data Retrieval using MapReduce
 
-![](tutorial\search.png)
+![](/tutorial/search.png)
 
 ### Item-based collaborative filtering recommendation using MapReduce
 
-![](tutorial\recommend.png)
+![](/tutorial/recommend.png)
 
 **# Prerequisite:**
 
