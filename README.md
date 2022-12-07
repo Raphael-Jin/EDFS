@@ -18,6 +18,7 @@ streamlit run Main.py
 
 **# Username & Password for demo:**
 
+```markdown
 username: admin 
 
 password: abc123
@@ -25,6 +26,7 @@ password: abc123
 username: demo_user
 
 password: abc123
+```
 
 **# File description:**
 
