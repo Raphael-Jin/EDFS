@@ -16,8 +16,7 @@ pip install pandas
 streamlit run Main.py 
 ```
 
-**# Username & Password for demo: **
-
+**# Username & Password for demo:**
 username: admin 
 
 password: abc123
